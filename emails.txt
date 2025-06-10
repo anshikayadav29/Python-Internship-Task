@@ -1,0 +1,3 @@
+abc@example.com
+test.user123@gmail.com
+support@company.org
